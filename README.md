@@ -5,3 +5,15 @@ week one homework 2
 *i downloaded lots of premade bootstrap codes off of the bootstrap website as well as mdbootstrap.com to help fill out my code and get a great layout. 
 *as well as bootsnip.com 
 *There will be much more to add to this page whenever we get other things added to our portfolios.
+
+**Screenshots below**
+
+![Alt text](/relative/path/to/screenshot1.png?raw=true "Optional Title")
+
+![Alt text](/relative/path/to/screenshot2.png?raw=true "Optional Title")
+
+![Alt text](/relative/path/to/screenshot3.png?raw=true "Optional Title")
+
+*deployed link*
+
+https://bethtgreen.github.io/Homework2/
