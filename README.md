@@ -8,11 +8,11 @@ week one homework 2
 
 **Screenshots below**
 
-![Alt text](/relative/path/to/screenshot1.png?raw=true "Optional Title")
+![Alt text](./relative/path/to/screenshot1.png?raw=true "Optional Title")
 
-![Alt text](/relative/path/to/screenshot2.png?raw=true "Optional Title")
+![Alt text](./relative/path/to/screenshot2.png?raw=true "Optional Title")
 
-![Alt text](/relative/path/to/screenshot3.png?raw=true "Optional Title")
+![Alt text](./relative/path/to/screenshot3.png?raw=true "Optional Title")
 
 *deployed link*
 
