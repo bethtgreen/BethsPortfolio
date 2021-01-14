@@ -1,14 +1,10 @@
-#profile {
-    float: left;
-    background-color: olivedrab;
 
+
+
+
+
+
+.card{
+    text-align:center;
+    text-shadow: 1px 1px 1px rgb(209, 202, 202);
 }
-
-body{
-    background-color: blanchedalmond;
-}
-
-#navbar {
-    color: olivedrab;
-
-}   
