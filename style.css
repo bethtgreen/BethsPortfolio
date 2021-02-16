@@ -3,7 +3,10 @@
     
 }
 
-
+.sidenav{
+    width: max-content !important;
+    height:auto !important;
+ }
 
 
 

@@ -15,4 +15,4 @@ I also uploaded some extra repo's to the portfolio page along with my first proj
 
 *deployed link*
 
-https://bethtgreen.github.io/Homework2/
+ https://bethtgreen.github.io/BethsPortfolio/

@@ -1,4 +1,5 @@
 $(document).ready(function(){
-$(".dropdown-trigger").dropdown();
-
+    console.log("file loaded");
+$('.sidenav').sidenav();
 });
+
